@@ -1,0 +1,27 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "certification": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:9c893f8d-1d2f-4821-baf4-39c274569a87#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "college": {
+                        "@id": "polygon-vocab:college",
+                        "@type": "xsd:string"
+                    },
+                    "cgpa": {
+                        "@id": "polygon-vocab:cgpa",
+                        "@type": "xsd:double"
+                    }
+                },
+                "@id": "urn:uuid:f132b364-e3f0-4adb-9f1c-9efe8db52e24"
+            }
+        }
+    ]
+}
