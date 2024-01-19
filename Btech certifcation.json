@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/Btech%20certifcation.jsonld"
         },
         "version": "1.0",
         "type": "certification"
