@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "identification",
         "uris": {
-            "jsonLdContext": "https://github.com/Logeshvarman/sampleschema/blob/main/onset-devs.jsonld"
+            "jsonLdContext": "https://logeshvarman.github.io/sampleschema/onset-devs.jsonld"
         },
         "version": "1.0"
     },
