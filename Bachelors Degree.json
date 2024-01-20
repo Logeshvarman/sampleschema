@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "Degree",
         "uris": {
-            "jsonLdContext": "ipfs://QmaH4eRKJs1NQ3GiRTF86W75v1CAjeRALD7xrbFJykGyDw"
+            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/Bachelors%20Degree.jsonld"
         },
         "version": "1.0"
     },
