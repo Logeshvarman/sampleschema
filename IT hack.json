@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "Verification",
         "uris": {
-            "jsonLdContext": "ipfs://QmYMmrw8D6frWcUNNMto8BTeppD381cc6BSDpSbd43JbSC"
+            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/IT%20hack.jsonld"
         },
         "version": "1.0"
     },
