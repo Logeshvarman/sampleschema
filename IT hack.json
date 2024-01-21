@@ -2,7 +2,8 @@
     "$metadata": {
         "type": "Verification",
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/IT%20hack.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/IT%20hack.jsonld",
+            "jsonSchema":"https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/IT%20hack.json"
         },
         "version": "1.0"
     },
