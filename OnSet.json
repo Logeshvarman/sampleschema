@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "OnSet",
         "uris": {
-            "jsonLdContext": "ipfs://Qmd7gpYKVkp7VUWhNaxwEWH8chyQqmphxHaxX2QapzgWqu"
+            "jsonLdContext": "https://raw.githubusercontent.com/Logeshvarman/sampleschema/main/OnSet.jsonld"
         },
         "version": "1.0"
     },
